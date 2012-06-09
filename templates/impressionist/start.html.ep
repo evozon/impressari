@@ -1,48 +1,22 @@
-% layout 'default';
+% layout 'impressionist';
 % title 'Start presentation';
 
 <script>
-	  $(document).ready(function(e)
-		{
-      $("#mybody").css("visibility", "hidden");
-      var bool = doUACheck();
-      if(bool)
-      {
-        $("#mybody").css("visibility", "visible");
-			  init();
-      }
-      else
-      {
-        document.location.href = "index.html";
-      }
-		});
-    function doUACheck()
-    {
-      if($.browser.webkit)
-      {
-        return true
-      }
-      else
-      {
-        return false;
-      }
-    }
-    </script>
-    <script type="text/javascript">
-
-        var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-30285438-1']);
-        _gaq.push(['_trackPageview']);
-
-        (function() {
-          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
+$(document).ready(function(e)
+{
+  $("#mybody").css("visibility", "hidden");
+  
+  if($.browser.webkit){
+      $("#mybody").css("visibility", "visible");
+      init();
+  } else {
+      document.location.href = "index.html";
+  }
+});
 </script>
-  </head>
-  <body id="mybody">
+
+
+  <div id="mybody">
    <div class="navbar btn-info" id="topnavbar">
     <div class="btn-info">
       <div class="container btn-info" style="width: auto;">
@@ -336,8 +310,8 @@
               <a href="#" class="btn" data-dismiss="modal" >Cancel</a>
             </div>
           </div>
-          <a href="#" id="leftarrow" onclick="movePageLeft(event)"><img src="pics/leftarrow.png" style="width:48px; height:48px"></img></a>
-          <a href="#" id="rightarrow" onclick="movePageRight(event)"><img src="pics/rightarrow.png" style="width:48px; height:48px"></img></a>
+          <a href="#" id="leftarrow" onclick="movePageLeft(event)"><img src="/img/leftarrow.png" style="width:48px; height:48px"></img></a>
+          <a href="#" id="rightarrow" onclick="movePageRight(event)"><img src="/img/rightarrow.png" style="width:48px; height:48px"></img></a>
           <a href="#" class="btn btn-info" onmousemove="onSkewStart()">Skew</a>
 
       <canvas id="mask">
@@ -346,3 +320,4 @@
 
     <div id="footerbar">
      </div>
+  </div>

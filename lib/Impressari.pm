@@ -33,7 +33,7 @@ sub startup {
   my $public = $self->routes;
 
   # Normal route to controller
-  $public->get('/')->to('main#home')->name('HOME');
+  $public->get('/')->to('impressionist#start');
   $public->route('/logout')->to('user#logout')->name('logout');
   $public->route('/login')->via('GET')->to('user#login_form')->name('login_form');
   $public->route('/login')->via('POST')->to('user#login')->name('login');
