@@ -1,0 +1,131 @@
+[Sat Jun  9 12:53:13 2012] [info] Listening at "http://*:3000".
+[Sat Jun  9 12:53:31 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Jun  9 12:53:31 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 12:53:31 2012] [debug] Routing to controller "Impressari::Example" and action "welcome".
+[Sat Jun  9 12:53:31 2012] [debug] Rendering template "example/welcome.html.ep".
+[Sat Jun  9 12:53:31 2012] [debug] Rendering template "layouts/default.html.ep".
+[Sat Jun  9 12:53:31 2012] [debug] 200 OK (0.016867s, 59.287/s).
+[Sat Jun  9 12:53:55 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Jun  9 12:53:55 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 12:53:55 2012] [error] Base class package "Impressari::Base" is empty.
+    (Perhaps you need to 'use' the module which defines that package first,
+    or make that module available in @INC (@INC contains: script/../lib C:/strawberry/perl/site/lib C:/strawberry/perl/vendor/lib C:/strawberry/perl/lib . C:/strawberry/perl/site/bin/../lib).
+ at script/../lib/Impressari/Login.pm line 6
+BEGIN failed--compilation aborted at script/../lib/Impressari/Login.pm line 6.
+Compilation failed in require at (eval 337) line 1.
+
+[Sat Jun  9 12:53:55 2012] [debug] Template "exception.development.html.ep" not found.
+[Sat Jun  9 12:53:55 2012] [debug] Template "exception.html.ep" not found.
+[Sat Jun  9 12:53:55 2012] [debug] Rendering inline template.
+[Sat Jun  9 12:53:55 2012] [debug] Rendering inline template.
+[Sat Jun  9 12:53:55 2012] [debug] 500 Internal Server Error (0.054239s, 18.437/s).
+[Sat Jun  9 12:54:42 2012] [info] Listening at "http://*:3000".
+[Sat Jun  9 12:54:47 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Jun  9 12:54:47 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 12:54:47 2012] [error] Base class package "Class::DBI::mysql" is empty.
+    (Perhaps you need to 'use' the module which defines that package first,
+    or make that module available in @INC (@INC contains: script/../lib C:/strawberry/perl/site/lib C:/strawberry/perl/vendor/lib C:/strawberry/perl/lib . C:/strawberry/perl/site/bin/../lib).
+ at script/../lib/Impressari/Models/Base.pm line 6
+BEGIN failed--compilation aborted at script/../lib/Impressari/Models/Base.pm line 6.
+Compilation failed in require at (eval 257) line 2.
+	...propagated at C:/strawberry/perl/lib/base.pm line 94.
+BEGIN failed--compilation aborted at script/../lib/Impressari/Models/Login.pm line 3.
+Compilation failed in require at script/../lib/Impressari/Login.pm line 8.
+BEGIN failed--compilation aborted at script/../lib/Impressari/Login.pm line 8.
+Compilation failed in require at (eval 255) line 1.
+
+[Sat Jun  9 12:54:47 2012] [debug] Template "exception.development.html.ep" not found.
+[Sat Jun  9 12:54:47 2012] [debug] Template "exception.html.ep" not found.
+[Sat Jun  9 12:54:47 2012] [debug] Rendering inline template.
+[Sat Jun  9 12:54:47 2012] [debug] Rendering inline template.
+[Sat Jun  9 12:54:47 2012] [debug] 500 Internal Server Error (0.051503s, 19.416/s).
+[Sat Jun  9 12:58:30 2012] [info] Listening at "http://*:3000".
+[Sat Jun  9 12:58:32 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Jun  9 12:58:32 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 12:58:33 2012] [error] Can't locate Class/DBI/AbstractSearch.pm in @INC (@INC contains: script/../lib C:/strawberry/perl/site/lib C:/strawberry/perl/vendor/lib C:/strawberry/perl/lib . C:/strawberry/perl/site/bin/../lib) at script/../lib/Impressari/Models/Base.pm line 7.
+BEGIN failed--compilation aborted at script/../lib/Impressari/Models/Base.pm line 7.
+Compilation failed in require at (eval 257) line 2.
+	...propagated at C:/strawberry/perl/lib/base.pm line 94.
+BEGIN failed--compilation aborted at script/../lib/Impressari/Models/Login.pm line 3.
+Compilation failed in require at script/../lib/Impressari/Login.pm line 8.
+BEGIN failed--compilation aborted at script/../lib/Impressari/Login.pm line 8.
+Compilation failed in require at (eval 255) line 1.
+
+[Sat Jun  9 12:58:33 2012] [debug] Template "exception.development.html.ep" not found.
+[Sat Jun  9 12:58:33 2012] [debug] Template "exception.html.ep" not found.
+[Sat Jun  9 12:58:33 2012] [debug] Rendering inline template.
+[Sat Jun  9 12:58:33 2012] [debug] Rendering inline template.
+[Sat Jun  9 12:58:33 2012] [debug] 500 Internal Server Error (0.160134s, 6.245/s).
+[Sat Jun  9 12:58:47 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Jun  9 12:58:47 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 12:58:47 2012] [error] DBI connect('database=impressari;host=localhost','root',...) failed: Unknown database 'impressari' at C:/strawberry/perl/site/lib/Ima/DBI.pm line 328
+Compilation failed in require at script/../lib/Impressari/Login.pm line 8.
+BEGIN failed--compilation aborted at script/../lib/Impressari/Login.pm line 8.
+Compilation failed in require at (eval 287) line 1.
+
+[Sat Jun  9 12:58:47 2012] [debug] Template "exception.development.html.ep" not found.
+[Sat Jun  9 12:58:47 2012] [debug] Template "exception.html.ep" not found.
+[Sat Jun  9 12:58:47 2012] [debug] Rendering inline template.
+[Sat Jun  9 12:58:47 2012] [debug] Rendering inline template.
+[Sat Jun  9 12:58:47 2012] [debug] 500 Internal Server Error (0.194132s, 5.151/s).
+[Sat Jun  9 12:59:11 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 12:59:11 2012] [debug] Routing to controller "Impressari::Login" and action "login".
+[Sat Jun  9 12:59:11 2012] [debug] Action not found in controller.
+[Sat Jun  9 12:59:11 2012] [debug] Template "login/login.html.ep" not found.
+[Sat Jun  9 12:59:11 2012] [debug] Template "not_found.development.html.ep" not found.
+[Sat Jun  9 12:59:11 2012] [debug] Template "not_found.html.ep" not found.
+[Sat Jun  9 12:59:11 2012] [debug] Rendering inline template.
+[Sat Jun  9 12:59:11 2012] [debug] Rendering inline template.
+[Sat Jun  9 12:59:11 2012] [debug] 404 Not Found (0.045535s, 21.961/s).
+[Sat Jun  9 13:00:34 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 13:00:34 2012] [debug] Routing to controller "Impressari::Login" and action "login".
+[Sat Jun  9 13:00:34 2012] [debug] Action not found in controller.
+[Sat Jun  9 13:00:34 2012] [debug] Template "login/login.html.ep" not found.
+[Sat Jun  9 13:00:34 2012] [debug] Template "not_found.development.html.ep" not found.
+[Sat Jun  9 13:00:34 2012] [debug] Template "not_found.html.ep" not found.
+[Sat Jun  9 13:00:34 2012] [debug] Rendering cached inline template.
+[Sat Jun  9 13:00:34 2012] [debug] Rendering cached inline template.
+[Sat Jun  9 13:00:34 2012] [debug] 404 Not Found (0.016475s, 60.698/s).
+[Sat Jun  9 13:04:05 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Jun  9 13:04:05 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 13:04:05 2012] [error] Can't locate Email/Valid.pm in @INC (@INC contains: script/../lib C:/strawberry/perl/site/lib C:/strawberry/perl/vendor/lib C:/strawberry/perl/lib . C:/strawberry/perl/site/bin/../lib) at script/../lib/Impressari/Login.pm line 10.
+BEGIN failed--compilation aborted at script/../lib/Impressari/Login.pm line 10.
+Compilation failed in require at (eval 915) line 1.
+
+[Sat Jun  9 13:04:05 2012] [debug] Template "exception.development.html.ep" not found.
+[Sat Jun  9 13:04:05 2012] [debug] Template "exception.html.ep" not found.
+[Sat Jun  9 13:04:05 2012] [debug] Rendering inline template.
+[Sat Jun  9 13:04:05 2012] [debug] Rendering inline template.
+[Sat Jun  9 13:04:05 2012] [debug] 500 Internal Server Error (0.221315s, 4.518/s).
+[Sat Jun  9 13:07:15 2012] [info] Listening at "http://*:3000".
+[Sat Jun  9 13:07:18 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Jun  9 13:07:18 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 13:07:18 2012] [error] Can't locate MIME/Lite.pm in @INC (@INC contains: script/../lib C:/strawberry/perl/site/lib C:/strawberry/perl/vendor/lib C:/strawberry/perl/lib . C:/strawberry/perl/site/bin/../lib) at script/../lib/Impressari/Login.pm line 12.
+BEGIN failed--compilation aborted at script/../lib/Impressari/Login.pm line 12.
+Compilation failed in require at (eval 255) line 1.
+
+[Sat Jun  9 13:07:18 2012] [debug] Template "exception.development.html.ep" not found.
+[Sat Jun  9 13:07:18 2012] [debug] Template "exception.html.ep" not found.
+[Sat Jun  9 13:07:18 2012] [debug] Rendering inline template.
+[Sat Jun  9 13:07:18 2012] [debug] Rendering inline template.
+[Sat Jun  9 13:07:19 2012] [debug] 500 Internal Server Error (0.244880s, 4.084/s).
+[Sat Jun  9 13:09:20 2012] [info] Listening at "http://*:3000".
+[Sat Jun  9 13:09:27 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Jun  9 13:09:27 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 13:09:27 2012] [error] Can't locate DateTime.pm in @INC (@INC contains: script/../lib C:/strawberry/perl/site/lib C:/strawberry/perl/vendor/lib C:/strawberry/perl/lib . C:/strawberry/perl/site/bin/../lib) at script/../lib/Impressari/Login.pm line 13.
+BEGIN failed--compilation aborted at script/../lib/Impressari/Login.pm line 13.
+Compilation failed in require at (eval 255) line 1.
+
+[Sat Jun  9 13:09:27 2012] [debug] Template "exception.development.html.ep" not found.
+[Sat Jun  9 13:09:27 2012] [debug] Template "exception.html.ep" not found.
+[Sat Jun  9 13:09:27 2012] [debug] Rendering inline template.
+[Sat Jun  9 13:09:27 2012] [debug] Rendering inline template.
+[Sat Jun  9 13:09:27 2012] [debug] 500 Internal Server Error (0.261034s, 3.831/s).
+[Sat Jun  9 13:11:35 2012] [info] Listening at "http://*:3000".
+[Sat Jun  9 13:23:27 2012] [info] Listening at "http://*:3000".
+[Sat Jun  9 13:23:31 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Jun  9 13:23:31 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 13:23:31 2012] [debug] Routing to controller "Impressari::Login" and action "login".
+[Sat Jun  9 13:23:31 2012] [debug] Rendering template "login/login.html.ep".
+[Sat Jun  9 13:23:31 2012] [debug] Rendering template "layouts/default.html.ep".
+[Sat Jun  9 13:23:31 2012] [debug] 200 OK (0.508424s, 1.967/s).
