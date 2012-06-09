@@ -40,6 +40,7 @@ sub startup {
   
   #logged in users
   my $auth = $public->bridge->to('user#authorized');
+  $auth->get('/start')->to('impressionist#start');
 }
 
 1;

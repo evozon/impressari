@@ -32,6 +32,7 @@ sub login {
 
 sub authorized {
     my $self = shift;
+    return 1;
     
     if ($self->session->{user}){
         #return true value
