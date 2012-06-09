@@ -471,3 +471,11 @@ Compilation failed in require at (eval 272) line 1.
 [Sat Jun  9 14:58:02 2012] [debug] Rendering inline template.
 [Sat Jun  9 14:58:02 2012] [debug] Rendering inline template.
 [Sat Jun  9 14:58:02 2012] [debug] 500 Internal Server Error (0.051564s, 19.393/s).
+[Sat Jun  9 15:00:56 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 15:01:02 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Jun  9 15:01:02 2012] [debug] GET /login (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 15:01:03 2012] [debug] Routing to controller "Impressari::User" and action "login_form".
+[Sat Jun  9 15:01:03 2012] [debug] Action not found in controller.
+[Sat Jun  9 15:01:03 2012] [debug] Rendering template "user/login_form.html.ep".
+[Sat Jun  9 15:01:03 2012] [debug] Rendering template "layouts/default.html.ep".
+[Sat Jun  9 15:01:03 2012] [debug] 200 OK (0.318607s, 3.139/s).

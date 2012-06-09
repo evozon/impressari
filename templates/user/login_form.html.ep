@@ -10,7 +10,7 @@
               <fieldset>
                 <div class="control-group">
                   <label class="control-label">Email:</label>
-                  <div class="controls"><%= text_field 'email', class => "span12", placeholder => "email" %></div>
+                  <div class="controls"><%= text_field 'email', class => "span12", placeholder => "Email" %></div>
                 </div>
                 <div class="control-group">
                   <label class="control-label">Password: <a href="/login">(forgot password)</a></label>
