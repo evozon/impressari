@@ -353,3 +353,121 @@ Compilation failed in require at (eval 272) line 1.
 [Sat Jun  9 14:46:06 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
 [Sat Jun  9 14:46:10 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
 [Sat Jun  9 14:46:16 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:52:43 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:54:31 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:54:40 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:54:48 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:54:55 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:55:00 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:55:13 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:55:29 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:55:35 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:55:40 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Jun  9 14:55:40 2012] [debug] GET /login (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 14:55:40 2012] [debug] Routing to controller "Impressari::User" and action "login_form".
+[Sat Jun  9 14:55:40 2012] [debug] Action not found in controller.
+[Sat Jun  9 14:55:40 2012] [debug] Rendering template "user/login_form.html.ep".
+[Sat Jun  9 14:55:40 2012] [debug] Rendering template "layouts/default.html.ep".
+[Sat Jun  9 14:55:40 2012] [debug] 200 OK (0.310247s, 3.223/s).
+[Sat Jun  9 14:55:40 2012] [debug] GET /plugin/bootstrap/bootstrap.css (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 14:55:40 2012] [debug] Template "not_found.development.html.ep" not found.
+[Sat Jun  9 14:55:40 2012] [debug] Template "not_found.html.ep" not found.
+[Sat Jun  9 14:55:40 2012] [debug] Rendering inline template.
+[Sat Jun  9 14:55:40 2012] [debug] Rendering inline template.
+[Sat Jun  9 14:55:40 2012] [debug] 404 Not Found (0.030610s, 32.669/s).
+[Sat Jun  9 14:55:40 2012] [debug] GET /plugin/bootstrap/bootstrap-responsive.css (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 14:55:40 2012] [debug] Template "not_found.development.html.ep" not found.
+[Sat Jun  9 14:55:40 2012] [debug] Template "not_found.html.ep" not found.
+[Sat Jun  9 14:55:40 2012] [debug] Rendering cached inline template.
+[Sat Jun  9 14:55:40 2012] [debug] Rendering cached inline template.
+[Sat Jun  9 14:55:40 2012] [debug] 404 Not Found (0.009596s, 104.210/s).
+[Sat Jun  9 14:55:40 2012] [debug] GET /plugin/bootstrap/bootstrap.js (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 14:55:40 2012] [debug] Template "not_found.development.html.ep" not found.
+[Sat Jun  9 14:55:40 2012] [debug] Template "not_found.html.ep" not found.
+[Sat Jun  9 14:55:40 2012] [debug] Rendering cached inline template.
+[Sat Jun  9 14:55:40 2012] [debug] Rendering cached inline template.
+[Sat Jun  9 14:55:40 2012] [debug] 404 Not Found (0.011206s, 89.238/s).
+[Sat Jun  9 14:55:46 2012] [debug] GET /plugin/bootstrap/bootstrap.css (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 14:55:46 2012] [debug] Template "not_found.development.html.ep" not found.
+[Sat Jun  9 14:55:46 2012] [debug] Template "not_found.html.ep" not found.
+[Sat Jun  9 14:55:46 2012] [debug] Rendering cached inline template.
+[Sat Jun  9 14:55:46 2012] [debug] Rendering cached inline template.
+[Sat Jun  9 14:55:46 2012] [debug] 404 Not Found (0.013290s, 75.245/s).
+[Sat Jun  9 14:56:00 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:56:01 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Jun  9 14:56:01 2012] [debug] GET /login (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 14:56:01 2012] [debug] Routing to controller "Impressari::User" and action "login_form".
+[Sat Jun  9 14:56:01 2012] [debug] Action not found in controller.
+[Sat Jun  9 14:56:01 2012] [debug] Rendering template "user/login_form.html.ep".
+[Sat Jun  9 14:56:01 2012] [debug] Rendering template "layouts/default.html.ep".
+[Sat Jun  9 14:56:01 2012] [debug] 200 OK (0.315234s, 3.172/s).
+[Sat Jun  9 14:56:02 2012] [debug] GET /plugins/bootstrap/bootstrap.css (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 14:56:02 2012] [debug] Template "not_found.development.html.ep" not found.
+[Sat Jun  9 14:56:02 2012] [debug] Template "not_found.html.ep" not found.
+[Sat Jun  9 14:56:02 2012] [debug] Rendering inline template.
+[Sat Jun  9 14:56:02 2012] [debug] Rendering inline template.
+[Sat Jun  9 14:56:02 2012] [debug] 404 Not Found (0.036918s, 27.087/s).
+[Sat Jun  9 14:56:21 2012] [debug] GET /login (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 14:56:21 2012] [debug] Routing to controller "Impressari::User" and action "login_form".
+[Sat Jun  9 14:56:21 2012] [debug] Action not found in controller.
+[Sat Jun  9 14:56:21 2012] [debug] Rendering cached template "user/login_form.html.ep".
+[Sat Jun  9 14:56:21 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Jun  9 14:56:21 2012] [debug] 200 OK (0.006484s, 154.226/s).
+[Sat Jun  9 14:56:21 2012] [debug] GET /plugins/bootstrap/bootstrap.css (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 14:56:21 2012] [debug] Template "not_found.development.html.ep" not found.
+[Sat Jun  9 14:56:21 2012] [debug] Template "not_found.html.ep" not found.
+[Sat Jun  9 14:56:21 2012] [debug] Rendering cached inline template.
+[Sat Jun  9 14:56:21 2012] [debug] Rendering cached inline template.
+[Sat Jun  9 14:56:21 2012] [debug] 404 Not Found (0.011090s, 90.171/s).
+[Sat Jun  9 14:56:21 2012] [debug] GET /plugins/bootstrap/bootstrap-responsive.css (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 14:56:21 2012] [debug] Template "not_found.development.html.ep" not found.
+[Sat Jun  9 14:56:21 2012] [debug] Template "not_found.html.ep" not found.
+[Sat Jun  9 14:56:21 2012] [debug] Rendering cached inline template.
+[Sat Jun  9 14:56:21 2012] [debug] Rendering cached inline template.
+[Sat Jun  9 14:56:21 2012] [debug] 404 Not Found (0.011593s, 86.259/s).
+[Sat Jun  9 14:56:21 2012] [debug] GET /plugins/bootstrap/bootstrap.js (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 14:56:21 2012] [debug] Template "not_found.development.html.ep" not found.
+[Sat Jun  9 14:56:21 2012] [debug] Template "not_found.html.ep" not found.
+[Sat Jun  9 14:56:21 2012] [debug] Rendering cached inline template.
+[Sat Jun  9 14:56:21 2012] [debug] Rendering cached inline template.
+[Sat Jun  9 14:56:21 2012] [debug] 404 Not Found (0.010923s, 91.550/s).
+[Sat Jun  9 14:56:26 2012] [debug] GET /plugins/bootstrap/bootstrap.css (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 14:56:26 2012] [debug] Template "not_found.development.html.ep" not found.
+[Sat Jun  9 14:56:26 2012] [debug] Template "not_found.html.ep" not found.
+[Sat Jun  9 14:56:26 2012] [debug] Rendering cached inline template.
+[Sat Jun  9 14:56:26 2012] [debug] Rendering cached inline template.
+[Sat Jun  9 14:56:26 2012] [debug] 404 Not Found (0.014768s, 67.714/s).
+[Sat Jun  9 14:56:56 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:56:58 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:57:02 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:57:08 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Jun  9 14:57:08 2012] [debug] GET /login (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 14:57:08 2012] [debug] Routing to controller "Impressari::User" and action "login_form".
+[Sat Jun  9 14:57:08 2012] [debug] Action not found in controller.
+[Sat Jun  9 14:57:08 2012] [debug] Rendering template "user/login_form.html.ep".
+[Sat Jun  9 14:57:08 2012] [debug] Rendering template "layouts/default.html.ep".
+[Sat Jun  9 14:57:08 2012] [debug] 200 OK (0.316953s, 3.155/s).
+[Sat Jun  9 14:57:15 2012] [debug] GET /login (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 14:57:15 2012] [debug] Routing to controller "Impressari::User" and action "login_form".
+[Sat Jun  9 14:57:15 2012] [debug] Action not found in controller.
+[Sat Jun  9 14:57:15 2012] [debug] Rendering cached template "user/login_form.html.ep".
+[Sat Jun  9 14:57:15 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Jun  9 14:57:15 2012] [debug] 200 OK (0.006851s, 145.964/s).
+[Sat Jun  9 14:57:43 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:57:57 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:57:57 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Jun  9 14:57:57 2012] [debug] GET /login (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 14:57:58 2012] [debug] Routing to controller "Impressari::User" and action "login_form".
+[Sat Jun  9 14:57:58 2012] [debug] Action not found in controller.
+[Sat Jun  9 14:57:58 2012] [debug] Rendering template "user/login_form.html.ep".
+[Sat Jun  9 14:57:58 2012] [debug] Rendering template "layouts/default.html.ep".
+[Sat Jun  9 14:57:58 2012] [debug] 200 OK (0.317887s, 3.146/s).
+[Sat Jun  9 14:58:02 2012] [debug] POST /login (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 14:58:02 2012] [debug] Routing to controller "Impressari::User" and action "login".
+[Sat Jun  9 14:58:02 2012] [error] Can't locate object method "connect" via package "Schema" (perhaps you forgot to load "Schema"?) at script/../lib/Impressari.pm line 23.
+
+[Sat Jun  9 14:58:02 2012] [debug] Template "exception.development.html.ep" not found.
+[Sat Jun  9 14:58:02 2012] [debug] Template "exception.html.ep" not found.
+[Sat Jun  9 14:58:02 2012] [debug] Rendering inline template.
+[Sat Jun  9 14:58:02 2012] [debug] Rendering inline template.
+[Sat Jun  9 14:58:02 2012] [debug] 500 Internal Server Error (0.051564s, 19.393/s).
