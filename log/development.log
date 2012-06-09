@@ -149,3 +149,8 @@ Compilation failed in require at (eval 255) line 1.
 [Sat Jun  9 13:29:50 2012] [debug] Rendering template "login/login.html.ep".
 [Sat Jun  9 13:29:50 2012] [debug] Rendering template "layouts/default.html.ep".
 [Sat Jun  9 13:29:50 2012] [debug] 200 OK (0.495178s, 2.019/s).
+[Sat Jun  9 13:33:25 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 13:33:25 2012] [debug] Routing to controller "Impressari::Login" and action "login".
+[Sat Jun  9 13:33:25 2012] [debug] Rendering cached template "login/login.html.ep".
+[Sat Jun  9 13:33:25 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Jun  9 13:33:25 2012] [debug] 200 OK (0.004349s, 229.938/s).

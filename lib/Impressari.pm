@@ -7,7 +7,16 @@ sub startup {
 
   # Documentation browser under "/perldoc"
   $self->plugin('PODRenderer');
-
+  
+  # Everything can be customized with options
+  my $config = $self->plugin( yaml_config => {
+        file      => 'conf/config.yaml',
+        stash_key => 'conf',
+        class     => 'YAML::XS'
+  });
+                                
+  $self->{config} = $config;
+  
   # Router
   my $r = $self->routes;
 
