@@ -1201,3 +1201,222 @@ Compilation failed in require at (eval 272) line 1.
 [Sat Jun  9 19:22:08 2012] [debug] 400 Bad Request (0.003842s, 260.281/s).
 [Sat Jun  9 19:28:45 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
 [Sat Jun  9 19:29:04 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 19:30:43 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Jun  9 19:30:43 2012] [debug] GET /login (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 19:30:43 2012] [debug] Routing to controller "Impressari::User" and action "login_form".
+[Sat Jun  9 19:30:43 2012] [debug] Action not found in controller.
+[Sat Jun  9 19:30:43 2012] [debug] Rendering template "user/login_form.html.ep".
+[Sat Jun  9 19:30:43 2012] [debug] Rendering template "layouts/default.html.ep".
+[Sat Jun  9 19:30:43 2012] [debug] 200 OK (0.306452s, 3.263/s).
+[Sat Jun  9 19:30:44 2012] [debug] POST /login (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 19:30:44 2012] [debug] Routing to controller "Impressari::User" and action "login".
+[Sat Jun  9 19:30:44 2012] [error] Can't locate object method "connect" via package "Schema" (perhaps you forgot to load "Schema"?) at script/../lib/Impressari.pm line 23.
+
+[Sat Jun  9 19:30:44 2012] [debug] Template "exception.development.html.ep" not found.
+[Sat Jun  9 19:30:44 2012] [debug] Template "exception.html.ep" not found.
+[Sat Jun  9 19:30:44 2012] [debug] Rendering inline template.
+[Sat Jun  9 19:30:44 2012] [debug] Rendering inline template.
+[Sat Jun  9 19:30:44 2012] [debug] 500 Internal Server Error (0.057154s, 17.497/s).
+[Sat Jun  9 19:31:10 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 19:31:13 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Jun  9 19:31:13 2012] [debug] GET /login (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 19:31:14 2012] [debug] Routing to controller "Impressari::User" and action "login_form".
+[Sat Jun  9 19:31:14 2012] [debug] Action not found in controller.
+[Sat Jun  9 19:31:14 2012] [debug] Rendering template "user/login_form.html.ep".
+[Sat Jun  9 19:31:14 2012] [debug] Rendering template "layouts/default.html.ep".
+[Sat Jun  9 19:31:14 2012] [debug] 200 OK (0.308624s, 3.240/s).
+[Sat Jun  9 19:31:15 2012] [debug] POST /login (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 19:31:15 2012] [debug] Routing to controller "Impressari::User" and action "login".
+[Sat Jun  9 19:31:15 2012] [error] Can't locate object method "connect" via package "Schema" (perhaps you forgot to load "Schema"?) at script/../lib/Impressari.pm line 23.
+
+[Sat Jun  9 19:31:15 2012] [debug] Template "exception.development.html.ep" not found.
+[Sat Jun  9 19:31:15 2012] [debug] Template "exception.html.ep" not found.
+[Sat Jun  9 19:31:15 2012] [debug] Rendering inline template.
+[Sat Jun  9 19:31:15 2012] [debug] Rendering inline template.
+[Sat Jun  9 19:31:15 2012] [debug] 500 Internal Server Error (0.045700s, 21.882/s).
+[Sat Jun  9 19:32:44 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 19:33:33 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 19:33:33 2012] [info] Listening at "http://*:3000".
+[Sat Jun  9 19:33:44 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 19:33:51 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Jun  9 19:33:51 2012] [debug] GET /login (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 19:33:52 2012] [debug] Routing to controller "Impressari::User" and action "login_form".
+[Sat Jun  9 19:33:52 2012] [debug] Action not found in controller.
+[Sat Jun  9 19:33:52 2012] [debug] Rendering template "user/login_form.html.ep".
+[Sat Jun  9 19:33:52 2012] [debug] Rendering template "layouts/default.html.ep".
+[Sat Jun  9 19:33:52 2012] [debug] 200 OK (0.304993s, 3.279/s).
+[Sat Jun  9 19:33:53 2012] [debug] POST /login (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 19:33:53 2012] [debug] Routing to controller "Impressari::User" and action "login".
+[Sat Jun  9 19:33:53 2012] [error] Can't locate object method "connect" via package "Schema" (perhaps you forgot to load "Schema"?) at script/../lib/Impressari.pm line 23.
+
+[Sat Jun  9 19:33:53 2012] [debug] Template "exception.development.html.ep" not found.
+[Sat Jun  9 19:33:53 2012] [debug] Template "exception.html.ep" not found.
+[Sat Jun  9 19:33:53 2012] [debug] Rendering inline template.
+[Sat Jun  9 19:33:53 2012] [debug] Rendering inline template.
+[Sat Jun  9 19:33:53 2012] [debug] 500 Internal Server Error (0.047824s, 20.910/s).
+[Sat Jun  9 19:35:04 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 19:35:11 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 19:35:11 2012] [info] Listening at "http://*:3000".
+[Sat Jun  9 19:35:14 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Jun  9 19:35:14 2012] [debug] GET /login (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 19:35:14 2012] [debug] Routing to controller "Impressari::User" and action "login_form".
+[Sat Jun  9 19:35:14 2012] [debug] Action not found in controller.
+[Sat Jun  9 19:35:14 2012] [debug] Rendering template "user/login_form.html.ep".
+[Sat Jun  9 19:35:14 2012] [debug] Rendering template "layouts/default.html.ep".
+[Sat Jun  9 19:35:14 2012] [debug] 200 OK (0.284916s, 3.510/s).
+[Sat Jun  9 19:35:16 2012] [debug] POST /login (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 19:35:16 2012] [debug] Routing to controller "Impressari::User" and action "login".
+[Sat Jun  9 19:35:16 2012] [debug] Template "user/login.html.ep" not found.
+[Sat Jun  9 19:35:16 2012] [debug] Nothing has been rendered, assuming delayed response.
+[Sat Jun  9 19:35:31 2012] [debug] Inactivity timeout.
+[Sat Jun  9 19:35:31 2012] [debug] POST /login (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 19:35:31 2012] [debug] Routing to controller "Impressari::User" and action "login".
+[Sat Jun  9 19:35:31 2012] [debug] Template "user/login.html.ep" not found.
+[Sat Jun  9 19:35:31 2012] [debug] Nothing has been rendered, assuming delayed response.
+[Sat Jun  9 19:35:46 2012] [debug] Inactivity timeout.
+[Sat Jun  9 19:36:05 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 19:36:11 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 19:36:15 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 19:36:22 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 19:36:25 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 19:36:35 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 19:36:35 2012] [info] Listening at "http://*:3000".
+[Sat Jun  9 19:36:36 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Jun  9 19:36:36 2012] [debug] GET /login (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 19:36:36 2012] [debug] Routing to controller "Impressari::User" and action "login_form".
+[Sat Jun  9 19:36:36 2012] [debug] Action not found in controller.
+[Sat Jun  9 19:36:36 2012] [debug] Rendering template "user/login_form.html.ep".
+[Sat Jun  9 19:36:36 2012] [debug] Rendering template "layouts/default.html.ep".
+[Sat Jun  9 19:36:36 2012] [debug] 200 OK (0.287830s, 3.474/s).
+[Sat Jun  9 19:36:38 2012] [debug] POST /login (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 19:36:38 2012] [debug] Routing to controller "Impressari::User" and action "login".
+[Sat Jun  9 19:36:38 2012] [debug] 302 Found (0.181702s, 5.504/s).
+[Sat Jun  9 19:36:38 2012] [debug] GET /login (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 19:36:38 2012] [debug] Routing to controller "Impressari::User" and action "login_form".
+[Sat Jun  9 19:36:38 2012] [debug] Action not found in controller.
+[Sat Jun  9 19:36:38 2012] [debug] Rendering cached template "user/login_form.html.ep".
+[Sat Jun  9 19:36:38 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Jun  9 19:36:38 2012] [debug] 200 OK (0.003182s, 314.268/s).
+[Sat Jun  9 19:37:40 2012] [debug] POST /login (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 19:37:40 2012] [debug] Routing to controller "Impressari::User" and action "login".
+[Sat Jun  9 19:37:40 2012] [debug] 302 Found (0.005943s, 168.265/s).
+[Sat Jun  9 19:37:40 2012] [debug] GET /login (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 19:37:40 2012] [debug] Routing to controller "Impressari::User" and action "login_form".
+[Sat Jun  9 19:37:40 2012] [debug] Action not found in controller.
+[Sat Jun  9 19:37:40 2012] [debug] Rendering cached template "user/login_form.html.ep".
+[Sat Jun  9 19:37:40 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Jun  9 19:37:40 2012] [debug] 200 OK (0.005126s, 195.084/s).
+[Sat Jun  9 19:38:26 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 19:38:30 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 19:38:35 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 19:38:35 2012] [info] Listening at "http://*:3000".
+[Sat Jun  9 19:38:39 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Jun  9 19:38:39 2012] [debug] GET /login (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 19:38:39 2012] [debug] Routing to controller "Impressari::User" and action "login_form".
+[Sat Jun  9 19:38:39 2012] [debug] Action not found in controller.
+[Sat Jun  9 19:38:39 2012] [debug] Rendering template "user/login_form.html.ep".
+[Sat Jun  9 19:38:39 2012] [debug] Rendering template "layouts/default.html.ep".
+[Sat Jun  9 19:38:39 2012] [debug] 200 OK (0.300817s, 3.324/s).
+[Sat Jun  9 19:38:44 2012] [debug] POST /login (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 19:38:44 2012] [debug] Routing to controller "Impressari::User" and action "login".
+[Sat Jun  9 19:38:44 2012] [debug] 302 Found (0.177821s, 5.624/s).
+[Sat Jun  9 19:38:44 2012] [debug] GET /login (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 19:38:44 2012] [debug] Routing to controller "Impressari::User" and action "login_form".
+[Sat Jun  9 19:38:44 2012] [debug] Action not found in controller.
+[Sat Jun  9 19:38:44 2012] [debug] Rendering cached template "user/login_form.html.ep".
+[Sat Jun  9 19:38:44 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Jun  9 19:38:44 2012] [debug] 200 OK (0.003191s, 313.381/s).
+[Sat Jun  9 19:39:03 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 19:39:08 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 19:39:08 2012] [info] Listening at "http://*:3000".
+[Sat Jun  9 19:39:15 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Jun  9 19:39:15 2012] [debug] POST /login (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 19:39:15 2012] [debug] Routing to controller "Impressari::User" and action "login".
+[Sat Jun  9 19:39:15 2012] [debug] 302 Found (0.438256s, 2.282/s).
+[Sat Jun  9 19:39:15 2012] [debug] GET /login (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 19:39:15 2012] [debug] Routing to controller "Impressari::User" and action "login_form".
+[Sat Jun  9 19:39:15 2012] [debug] Action not found in controller.
+[Sat Jun  9 19:39:15 2012] [debug] Rendering template "user/login_form.html.ep".
+[Sat Jun  9 19:39:15 2012] [debug] Rendering template "layouts/default.html.ep".
+[Sat Jun  9 19:39:15 2012] [debug] 200 OK (0.015703s, 63.682/s).
+[Sat Jun  9 19:39:45 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 19:39:45 2012] [debug] Class "Impressari::Impressionist" is not a controller.
+[Sat Jun  9 19:39:45 2012] [debug] Rendering template "impressionist/start.html.ep".
+[Sat Jun  9 19:39:45 2012] [debug] Rendering template "layouts/impressionist.html.ep".
+[Sat Jun  9 19:39:45 2012] [debug] 200 OK (0.032659s, 30.619/s).
+[Sat Jun  9 19:40:57 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 19:40:59 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 19:41:02 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 19:41:05 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 19:41:07 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 19:41:10 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 19:41:13 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 19:41:19 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 19:41:27 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 19:41:27 2012] [info] Listening at "http://*:3000".
+[Sat Jun  9 19:41:31 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Jun  9 19:41:31 2012] [debug] GET /login (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 19:41:31 2012] [debug] Routing to controller "Impressari::User" and action "login_form".
+[Sat Jun  9 19:41:31 2012] [debug] Action not found in controller.
+[Sat Jun  9 19:41:31 2012] [debug] Rendering template "user/login_form.html.ep".
+[Sat Jun  9 19:41:31 2012] [debug] Rendering template "layouts/default.html.ep".
+[Sat Jun  9 19:41:31 2012] [debug] 200 OK (0.274767s, 3.639/s).
+[Sat Jun  9 19:41:37 2012] [debug] POST /login (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 19:41:37 2012] [debug] Routing to controller "Impressari::User" and action "login".
+[Sat Jun  9 19:41:37 2012] [debug] 302 Found (0.271242s, 3.687/s).
+[Sat Jun  9 19:41:37 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 19:41:37 2012] [debug] Class "Impressari::Impressionist" is not a controller.
+[Sat Jun  9 19:41:37 2012] [debug] Rendering template "impressionist/start.html.ep".
+[Sat Jun  9 19:41:37 2012] [debug] Rendering template "layouts/impressionist.html.ep".
+[Sat Jun  9 19:41:37 2012] [debug] 200 OK (0.026416s, 37.856/s).
+[Sat Jun  9 19:42:00 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 19:42:02 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 19:42:22 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 19:42:22 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Jun  9 19:42:22 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 19:42:22 2012] [debug] Class "Impressari::Impressionist" is not a controller.
+[Sat Jun  9 19:42:22 2012] [debug] Rendering template "impressionist/start.html.ep".
+[Sat Jun  9 19:42:22 2012] [debug] Rendering template "layouts/impressionist.html.ep".
+[Sat Jun  9 19:42:22 2012] [debug] 200 OK (0.030751s, 32.519/s).
+[Sat Jun  9 19:42:43 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 19:42:46 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 19:42:54 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 19:43:07 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 19:43:07 2012] [info] Listening at "http://*:3000".
+[Sat Jun  9 19:43:12 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Jun  9 19:43:12 2012] [debug] GET /logout (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 19:43:12 2012] [debug] Routing to controller "Impressari::User" and action "logout".
+[Sat Jun  9 19:43:12 2012] [debug] 302 Found (0.280914s, 3.560/s).
+[Sat Jun  9 19:43:12 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 19:43:12 2012] [debug] Class "Impressari::Impressionist" is not a controller.
+[Sat Jun  9 19:43:12 2012] [debug] Rendering template "impressionist/start.html.ep".
+[Sat Jun  9 19:43:12 2012] [debug] Rendering template "layouts/impressionist.html.ep".
+[Sat Jun  9 19:43:12 2012] [debug] 200 OK (0.030452s, 32.839/s).
+[Sat Jun  9 19:43:36 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 19:43:36 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Jun  9 19:43:36 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 19:43:36 2012] [debug] Template "not_found.development.html.ep" not found.
+[Sat Jun  9 19:43:36 2012] [debug] Template "not_found.html.ep" not found.
+[Sat Jun  9 19:43:36 2012] [debug] Rendering inline template.
+[Sat Jun  9 19:43:36 2012] [debug] Rendering inline template.
+[Sat Jun  9 19:43:36 2012] [debug] 404 Not Found (0.038850s, 25.740/s).
+[Sat Jun  9 19:43:44 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 19:43:48 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Jun  9 19:43:48 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 19:43:48 2012] [debug] Routing to controller "Impressari::User" and action "authorized".
+[Sat Jun  9 19:43:48 2012] [debug] 302 Found (0.274221s, 3.647/s).
+[Sat Jun  9 19:43:48 2012] [debug] GET /login (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 19:43:48 2012] [debug] Routing to controller "Impressari::User" and action "login_form".
+[Sat Jun  9 19:43:48 2012] [debug] Action not found in controller.
+[Sat Jun  9 19:43:48 2012] [debug] Rendering template "user/login_form.html.ep".
+[Sat Jun  9 19:43:48 2012] [debug] Rendering template "layouts/default.html.ep".
+[Sat Jun  9 19:43:48 2012] [debug] 200 OK (0.016353s, 61.151/s).
+[Sat Jun  9 19:43:53 2012] [debug] POST /login (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 19:43:53 2012] [debug] Routing to controller "Impressari::User" and action "login".
+[Sat Jun  9 19:43:53 2012] [debug] 302 Found (0.178287s, 5.609/s).
+[Sat Jun  9 19:43:53 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 19:43:53 2012] [debug] Routing to controller "Impressari::User" and action "authorized".
+[Sat Jun  9 19:43:53 2012] [debug] Class "Impressari::Impressionist" is not a controller.
+[Sat Jun  9 19:43:53 2012] [debug] Rendering template "impressionist/start.html.ep".
+[Sat Jun  9 19:43:53 2012] [debug] Rendering template "layouts/impressionist.html.ep".
+[Sat Jun  9 19:43:53 2012] [debug] 200 OK (0.026502s, 37.733/s).

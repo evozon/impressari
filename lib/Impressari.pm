@@ -1,6 +1,8 @@
 package Impressari;
 use Mojo::Base 'Mojolicious';
 
+use Schema;
+
 # This method will run once at server start
 sub startup {
   my $self = shift;
@@ -21,7 +23,7 @@ sub startup {
       __PACKAGE__->attr(
        'model' => sub {
               Schema->connect(
-                  $config->{database}->{db_name},  
+                  $config->{database}->{dsn},  
                   $config->{database}->{user},
                   $config->{database}->{pass},
               );
@@ -33,14 +35,13 @@ sub startup {
   my $public = $self->routes;
 
   # Normal route to controller
-  $public->get('/')->to('impressionist#start');
   $public->route('/logout')->to('user#logout')->name('logout');
   $public->route('/login')->via('GET')->to('user#login_form')->name('login_form');
   $public->route('/login')->via('POST')->to('user#login')->name('login');
   
   #logged in users
   my $auth = $public->bridge->to('user#authorized');
-  $auth->get('/start')->to('impressionist#start');
+  $auth->get('/')->to('impressionist#start');
 }
 
 1;

@@ -12,27 +12,34 @@ use Data::Dumper;
 
 sub login {
     my $self = shift;
-    my ($email, $pass) = @_;
     
     my $schema = $self->app->model;
     my $user = undef;
     
     $user = $schema->resultset('User')->find(
         {
-            email    => $email,
-            password => $pass,
+            email    => $self->param('email'),
+            password => $self->param('password'),
         }
     );
     
     if ($user){
         $self->session->{user} = $user;
         $self->redirect_to('/');
+    } else {
+        $self->redirect_to('/login');    
     }
+}
+
+sub logout {
+    my $self = shift;
+  
+    delete $self->session->{user};
+    $self->redirect_to('/');
 }
 
 sub authorized {
     my $self = shift;
-    return 1;
     
     if ($self->session->{user}){
         #return true value
