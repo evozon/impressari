@@ -17,6 +17,18 @@ sub startup {
                                 
   $self->{config} = $config;
   
+  if (!$self->can('model')) {
+      __PACKAGE__->attr(
+       'model' => sub {
+              Schema->connect(
+                  $config->{database}->{db_name},  
+                  $config->{database}->{user},
+                  $config->{database}->{pass},
+              );
+          }
+      );
+  }
+  
   # Router
   my $r = $self->routes;
 
