@@ -1,4 +1,4 @@
-% layout 'admin/default';
+% layout 'default';
 % title 'Login';
 
     <div class="row-fluid">

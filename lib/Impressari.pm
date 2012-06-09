@@ -30,10 +30,13 @@ sub startup {
   }
   
   # Router
-  my $r = $self->routes;
+  my $public = $self->routes;
 
   # Normal route to controller
-  $r->get('/')->to('login#login');
+  $public->get('/')->to('main#home')->name('HOME');
+  $public->route('/logout')->to('user#logout')->name('logout');
+  $public->route('/login')->via('GET')->to('user#login_form')->name('login_form');
+  $public->route('/login')->via('POST')->to('user#login')->name('login');
 }
 
 1;

@@ -208,3 +208,148 @@ Compilation failed in require at (eval 268) line 1.
 [Sat Jun  9 14:24:11 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
 [Sat Jun  9 14:24:16 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
 [Sat Jun  9 14:24:42 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:25:37 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Jun  9 14:25:37 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 14:25:37 2012] [debug] Controller "Impressari::Login" does not exist.
+[Sat Jun  9 14:25:37 2012] [debug] Rendering template "login/login.html.ep".
+[Sat Jun  9 14:25:37 2012] [error] Global symbol "$error" requires explicit package name at template "login/login.html.ep" line 9, near "        <tr>".
+Global symbol "$error" requires explicit package name at template "login/login.html.ep" line 11, near "        </tr>".
+4: <div id="users">
+5:     <h1>Login page</h1>
+6:     
+7:     <form action="login" method="POST">
+8:     <table align="center">
+9:         %if ($error){
+10:         <tr>
+11:             <td colspan="2" align="center"><%=$error%></td>
+12:         </tr>
+13:         %}
+14:         <tr>
+
+[Sat Jun  9 14:25:37 2012] [debug] Template "exception.development.html.ep" not found.
+[Sat Jun  9 14:25:37 2012] [debug] Template "exception.html.ep" not found.
+[Sat Jun  9 14:25:37 2012] [debug] Rendering inline template.
+[Sat Jun  9 14:25:37 2012] [debug] Rendering inline template.
+[Sat Jun  9 14:25:37 2012] [debug] 500 Internal Server Error (0.062080s, 16.108/s).
+[Sat Jun  9 14:26:48 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:26:58 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:27:08 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:27:11 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:27:37 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:27:44 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:27:55 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:27:58 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:28:00 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:28:05 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:28:10 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:28:33 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:28:57 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:29:09 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:29:26 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:29:31 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:29:33 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:29:36 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:29:46 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:29:50 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:29:52 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:29:58 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:30:05 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:30:08 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:30:34 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:30:36 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:30:40 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:30:45 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:30:48 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:30:54 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:30:57 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:31:00 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:31:03 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:31:07 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:31:10 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:31:14 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:31:17 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:31:26 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:31:29 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:31:36 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:31:47 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:31:50 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:32:02 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:32:09 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:32:27 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:32:37 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:33:00 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:33:05 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:35:13 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:35:22 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:35:26 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:35:33 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:35:47 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:35:51 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:35:53 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:36:45 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:37:20 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:37:22 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:37:24 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:37:26 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:37:41 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:37:52 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:37:55 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:37:59 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:38:02 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:38:05 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:38:08 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:38:12 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:38:20 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:38:23 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:38:52 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:38:57 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:39:00 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:39:03 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:39:05 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:39:21 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:39:23 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:39:25 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:39:30 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:40:19 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:40:24 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:40:27 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:40:37 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:41:48 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:42:00 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:42:11 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:42:14 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:42:16 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:43:11 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:43:39 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:43:39 2012] [info] Listening at "http://*:3000".
+[Sat Jun  9 14:43:44 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Jun  9 14:43:44 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 14:43:44 2012] [debug] Controller "Impressari::Main" does not exist.
+[Sat Jun  9 14:43:44 2012] [debug] Template "main/home.html.ep" not found.
+[Sat Jun  9 14:43:44 2012] [debug] Template "not_found.development.html.ep" not found.
+[Sat Jun  9 14:43:44 2012] [debug] Template "not_found.html.ep" not found.
+[Sat Jun  9 14:43:44 2012] [debug] Rendering inline template.
+[Sat Jun  9 14:43:44 2012] [debug] Rendering inline template.
+[Sat Jun  9 14:43:44 2012] [debug] 404 Not Found (0.042913s, 23.303/s).
+[Sat Jun  9 14:43:57 2012] [debug] GET /login (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 14:43:58 2012] [error] Can't locate DateTime/Format/Strptime.pm in @INC (@INC contains: script/../lib C:/strawberry/perl/site/lib C:/strawberry/perl/vendor/lib C:/strawberry/perl/lib . C:/strawberry/perl/site/bin/../lib) at script/../lib/Impressari/User.pm line 9.
+BEGIN failed--compilation aborted at script/../lib/Impressari/User.pm line 9.
+Compilation failed in require at (eval 272) line 1.
+
+[Sat Jun  9 14:43:58 2012] [debug] Template "exception.development.html.ep" not found.
+[Sat Jun  9 14:43:58 2012] [debug] Template "exception.html.ep" not found.
+[Sat Jun  9 14:43:58 2012] [debug] Rendering inline template.
+[Sat Jun  9 14:43:58 2012] [debug] Rendering inline template.
+[Sat Jun  9 14:43:58 2012] [debug] 500 Internal Server Error (0.332617s, 3.006/s).
+[Sat Jun  9 14:45:35 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:45:35 2012] [info] Listening at "http://*:3000".
+[Sat Jun  9 14:45:39 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Jun  9 14:45:39 2012] [debug] GET /login (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 14:45:39 2012] [debug] Routing to controller "Impressari::User" and action "login_form".
+[Sat Jun  9 14:45:39 2012] [debug] Action not found in controller.
+[Sat Jun  9 14:45:39 2012] [debug] Rendering template "user/login_form.html.ep".
+[Sat Jun  9 14:45:39 2012] [debug] Rendering template "layouts/default.html.ep".
+[Sat Jun  9 14:45:39 2012] [debug] 200 OK (0.311033s, 3.215/s).
+[Sat Jun  9 14:46:06 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:46:10 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 14:46:16 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
