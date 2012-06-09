@@ -37,6 +37,9 @@ sub startup {
   $public->route('/logout')->to('user#logout')->name('logout');
   $public->route('/login')->via('GET')->to('user#login_form')->name('login_form');
   $public->route('/login')->via('POST')->to('user#login')->name('login');
+  
+  #logged in users
+  my $auth = $public->bridge->to('user#authorized');
 }
 
 1;
