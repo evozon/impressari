@@ -129,3 +129,23 @@ Compilation failed in require at (eval 255) line 1.
 [Sat Jun  9 13:23:31 2012] [debug] Rendering template "login/login.html.ep".
 [Sat Jun  9 13:23:31 2012] [debug] Rendering template "layouts/default.html.ep".
 [Sat Jun  9 13:23:31 2012] [debug] 200 OK (0.508424s, 1.967/s).
+[Sat Jun  9 13:29:23 2012] [info] Listening at "http://*:3000".
+[Sat Jun  9 13:29:26 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Jun  9 13:29:26 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 13:29:26 2012] [error] DBI connect('database=impressari;host=192.168.2.108','impressari',...) failed: Access denied for user 'impressari'@'EVO041L' (using password: NO) at C:/strawberry/perl/site/lib/Ima/DBI.pm line 328
+Compilation failed in require at script/../lib/Impressari/Login.pm line 8.
+BEGIN failed--compilation aborted at script/../lib/Impressari/Login.pm line 8.
+Compilation failed in require at (eval 255) line 1.
+
+[Sat Jun  9 13:29:26 2012] [debug] Template "exception.development.html.ep" not found.
+[Sat Jun  9 13:29:26 2012] [debug] Template "exception.html.ep" not found.
+[Sat Jun  9 13:29:26 2012] [debug] Rendering inline template.
+[Sat Jun  9 13:29:26 2012] [debug] Rendering inline template.
+[Sat Jun  9 13:29:26 2012] [debug] 500 Internal Server Error (0.205693s, 4.862/s).
+[Sat Jun  9 13:29:47 2012] [info] Listening at "http://*:3000".
+[Sat Jun  9 13:29:49 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Jun  9 13:29:49 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 13:29:50 2012] [debug] Routing to controller "Impressari::Login" and action "login".
+[Sat Jun  9 13:29:50 2012] [debug] Rendering template "login/login.html.ep".
+[Sat Jun  9 13:29:50 2012] [debug] Rendering template "layouts/default.html.ep".
+[Sat Jun  9 13:29:50 2012] [debug] 200 OK (0.495178s, 2.019/s).
