@@ -853,3 +853,351 @@ Compilation failed in require at (eval 272) line 1.
 [Sat Jun  9 17:50:36 2012] [debug] 200 OK (0.002454s, 407.498/s).
 [Sat Jun  9 17:51:03 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
 [Sat Jun  9 17:51:07 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 17:54:00 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 17:54:00 2012] [info] Listening at "http://*:3000".
+[Sat Jun  9 17:54:02 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Jun  9 17:54:02 2012] [debug] GET /start (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 17:54:03 2012] [debug] Routing to controller "Impressari::User" and action "authorized".
+[Sat Jun  9 17:54:03 2012] [debug] Class "Impressari::Impressionist" is not a controller.
+[Sat Jun  9 17:54:03 2012] [debug] Rendering template "impressionist/start.html.ep".
+[Sat Jun  9 17:54:03 2012] [debug] Rendering template "layouts/impressionist.html.ep".
+[Sat Jun  9 17:54:03 2012] [debug] 200 OK (0.319364s, 3.131/s).
+[Sat Jun  9 17:54:30 2012] [debug] POST /server/generatePreview.php (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 17:54:30 2012] [debug] Template "not_found.development.html.ep" not found.
+[Sat Jun  9 17:54:30 2012] [debug] Template "not_found.html.ep" not found.
+[Sat Jun  9 17:54:30 2012] [debug] Rendering inline template.
+[Sat Jun  9 17:54:30 2012] [debug] Rendering inline template.
+[Sat Jun  9 17:54:30 2012] [debug] 404 Not Found (0.044907s, 22.268/s).
+[Sat Jun  9 17:54:30 2012] [debug] POST /server/generateArchive.php (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 17:54:30 2012] [debug] Template "not_found.development.html.ep" not found.
+[Sat Jun  9 17:54:30 2012] [debug] Template "not_found.html.ep" not found.
+[Sat Jun  9 17:54:30 2012] [debug] Rendering cached inline template.
+[Sat Jun  9 17:54:30 2012] [debug] Rendering cached inline template.
+[Sat Jun  9 17:54:30 2012] [debug] 404 Not Found (0.011706s, 85.426/s).
+[Sat Jun  9 17:54:32 2012] [debug] POST /server/generatePreview.php (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 17:54:32 2012] [debug] Template "not_found.development.html.ep" not found.
+[Sat Jun  9 17:54:32 2012] [debug] Template "not_found.html.ep" not found.
+[Sat Jun  9 17:54:32 2012] [debug] Rendering cached inline template.
+[Sat Jun  9 17:54:32 2012] [debug] Rendering cached inline template.
+[Sat Jun  9 17:54:32 2012] [debug] 404 Not Found (0.018867s, 53.003/s).
+[Sat Jun  9 17:54:32 2012] [debug] POST /server/generateArchive.php (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 17:54:32 2012] [debug] Template "not_found.development.html.ep" not found.
+[Sat Jun  9 17:54:32 2012] [debug] Template "not_found.html.ep" not found.
+[Sat Jun  9 17:54:32 2012] [debug] Rendering cached inline template.
+[Sat Jun  9 17:54:32 2012] [debug] Rendering cached inline template.
+[Sat Jun  9 17:54:32 2012] [debug] 404 Not Found (0.016263s, 61.489/s).
+[Sat Jun  9 17:55:28 2012] [debug] GET /start (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 17:55:28 2012] [debug] Routing to controller "Impressari::User" and action "authorized".
+[Sat Jun  9 17:55:28 2012] [debug] Class "Impressari::Impressionist" is not a controller.
+[Sat Jun  9 17:55:28 2012] [debug] Rendering cached template "impressionist/start.html.ep".
+[Sat Jun  9 17:55:28 2012] [debug] Rendering cached template "layouts/impressionist.html.ep".
+[Sat Jun  9 17:55:28 2012] [debug] 200 OK (0.002820s, 354.610/s).
+[Sat Jun  9 17:56:56 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 17:58:42 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Jun  9 17:58:42 2012] [debug] GET /start (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 17:58:42 2012] [debug] Routing to controller "Impressari::User" and action "authorized".
+[Sat Jun  9 17:58:42 2012] [debug] Class "Impressari::Impressionist" is not a controller.
+[Sat Jun  9 17:58:42 2012] [debug] Rendering template "impressionist/start.html.ep".
+[Sat Jun  9 17:58:42 2012] [debug] Rendering template "layouts/impressionist.html.ep".
+[Sat Jun  9 17:58:42 2012] [debug] 200 OK (0.324982s, 3.077/s).
+[Sat Jun  9 18:01:17 2012] [debug] GET /start (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 18:01:17 2012] [debug] Routing to controller "Impressari::User" and action "authorized".
+[Sat Jun  9 18:01:17 2012] [debug] Class "Impressari::Impressionist" is not a controller.
+[Sat Jun  9 18:01:17 2012] [debug] Rendering cached template "impressionist/start.html.ep".
+[Sat Jun  9 18:01:17 2012] [debug] Rendering cached template "layouts/impressionist.html.ep".
+[Sat Jun  9 18:01:17 2012] [debug] 200 OK (0.002494s, 400.962/s).
+[Sat Jun  9 18:14:50 2012] [debug] GET /start (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 18:14:50 2012] [debug] Routing to controller "Impressari::User" and action "authorized".
+[Sat Jun  9 18:14:50 2012] [debug] Class "Impressari::Impressionist" is not a controller.
+[Sat Jun  9 18:14:50 2012] [debug] Rendering cached template "impressionist/start.html.ep".
+[Sat Jun  9 18:14:50 2012] [debug] Rendering cached template "layouts/impressionist.html.ep".
+[Sat Jun  9 18:14:50 2012] [debug] 200 OK (0.008846s, 113.045/s).
+[Sat Jun  9 18:15:00 2012] [debug] GET /start (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 18:15:00 2012] [debug] Routing to controller "Impressari::User" and action "authorized".
+[Sat Jun  9 18:15:00 2012] [debug] Class "Impressari::Impressionist" is not a controller.
+[Sat Jun  9 18:15:00 2012] [debug] Rendering cached template "impressionist/start.html.ep".
+[Sat Jun  9 18:15:00 2012] [debug] Rendering cached template "layouts/impressionist.html.ep".
+[Sat Jun  9 18:15:00 2012] [debug] 200 OK (0.005354s, 186.776/s).
+[Sat Jun  9 18:42:06 2012] [debug] GET /login (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 18:42:06 2012] [debug] Routing to controller "Impressari::User" and action "login_form".
+[Sat Jun  9 18:42:06 2012] [debug] Action not found in controller.
+[Sat Jun  9 18:42:06 2012] [debug] Rendering template "user/login_form.html.ep".
+[Sat Jun  9 18:42:06 2012] [debug] Rendering template "layouts/default.html.ep".
+[Sat Jun  9 18:42:06 2012] [debug] 200 OK (0.020597s, 48.551/s).
+[Sat Jun  9 18:42:14 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 18:42:14 2012] [debug] Class "Impressari::Impressionist" is not a controller.
+[Sat Jun  9 18:42:14 2012] [debug] Rendering cached template "impressionist/start.html.ep".
+[Sat Jun  9 18:42:14 2012] [debug] Rendering cached template "layouts/impressionist.html.ep".
+[Sat Jun  9 18:42:14 2012] [debug] 200 OK (0.004874s, 205.170/s).
+[Sat Jun  9 18:42:18 2012] [debug] GET /start (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 18:42:18 2012] [debug] Routing to controller "Impressari::User" and action "authorized".
+[Sat Jun  9 18:42:18 2012] [debug] Class "Impressari::Impressionist" is not a controller.
+[Sat Jun  9 18:42:18 2012] [debug] Rendering cached template "impressionist/start.html.ep".
+[Sat Jun  9 18:42:18 2012] [debug] Rendering cached template "layouts/impressionist.html.ep".
+[Sat Jun  9 18:42:18 2012] [debug] 200 OK (0.004656s, 214.777/s).
+[Sat Jun  9 18:42:21 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 18:42:21 2012] [debug] Class "Impressari::Impressionist" is not a controller.
+[Sat Jun  9 18:42:21 2012] [debug] Rendering cached template "impressionist/start.html.ep".
+[Sat Jun  9 18:42:21 2012] [debug] Rendering cached template "layouts/impressionist.html.ep".
+[Sat Jun  9 18:42:21 2012] [debug] 200 OK (0.004323s, 231.321/s).
+[Sat Jun  9 18:47:11 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 18:47:18 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 18:47:24 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 18:47:38 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 18:47:39 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Jun  9 18:47:39 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 18:47:39 2012] [debug] Class "Impressari::Impressionist" is not a controller.
+[Sat Jun  9 18:47:39 2012] [debug] Rendering template "impressionist/start.html.ep".
+[Sat Jun  9 18:47:39 2012] [error] Template "C:\wamp\www\impressari\templates\impressionist\start.html.ep" has invalid encoding. at C:/strawberry/perl/site/lib/Mojolicious/Plugin/EPLRenderer.pm line 54
+
+[Sat Jun  9 18:47:39 2012] [debug] Template "exception.development.html.ep" not found.
+[Sat Jun  9 18:47:39 2012] [debug] Template "exception.html.ep" not found.
+[Sat Jun  9 18:47:39 2012] [debug] Rendering inline template.
+[Sat Jun  9 18:47:39 2012] [debug] Rendering inline template.
+[Sat Jun  9 18:47:39 2012] [debug] 500 Internal Server Error (0.054982s, 18.188/s).
+[Sat Jun  9 18:47:41 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 18:47:41 2012] [debug] Class "Impressari::Impressionist" is not a controller.
+[Sat Jun  9 18:47:41 2012] [debug] Rendering template "impressionist/start.html.ep".
+[Sat Jun  9 18:47:41 2012] [error] Template "C:\wamp\www\impressari\templates\impressionist\start.html.ep" has invalid encoding. at C:/strawberry/perl/site/lib/Mojolicious/Plugin/EPLRenderer.pm line 54
+
+[Sat Jun  9 18:47:41 2012] [debug] Template "exception.development.html.ep" not found.
+[Sat Jun  9 18:47:41 2012] [debug] Template "exception.html.ep" not found.
+[Sat Jun  9 18:47:41 2012] [debug] Rendering cached inline template.
+[Sat Jun  9 18:47:41 2012] [debug] Rendering cached inline template.
+[Sat Jun  9 18:47:41 2012] [debug] 500 Internal Server Error (0.027288s, 36.646/s).
+[Sat Jun  9 18:48:29 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 18:48:29 2012] [info] Listening at "http://*:3000".
+[Sat Jun  9 18:48:32 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Jun  9 18:48:32 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 18:48:32 2012] [debug] Class "Impressari::Impressionist" is not a controller.
+[Sat Jun  9 18:48:32 2012] [debug] Rendering template "impressionist/start.html.ep".
+[Sat Jun  9 18:48:32 2012] [error] Template "C:\wamp\www\impressari\templates\impressionist\start.html.ep" has invalid encoding. at C:/strawberry/perl/site/lib/Mojolicious/Plugin/EPLRenderer.pm line 54
+
+[Sat Jun  9 18:48:32 2012] [debug] Template "exception.development.html.ep" not found.
+[Sat Jun  9 18:48:32 2012] [debug] Template "exception.html.ep" not found.
+[Sat Jun  9 18:48:32 2012] [debug] Rendering inline template.
+[Sat Jun  9 18:48:32 2012] [debug] Rendering inline template.
+[Sat Jun  9 18:48:32 2012] [debug] 500 Internal Server Error (0.063004s, 15.872/s).
+[Sat Jun  9 18:48:46 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 18:48:47 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Jun  9 18:48:47 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 18:48:47 2012] [debug] Class "Impressari::Impressionist" is not a controller.
+[Sat Jun  9 18:48:47 2012] [debug] Rendering template "impressionist/start.html.ep".
+[Sat Jun  9 18:48:47 2012] [error] Template "C:\wamp\www\impressari\templates\impressionist\start.html.ep" has invalid encoding. at C:/strawberry/perl/site/lib/Mojolicious/Plugin/EPLRenderer.pm line 54
+
+[Sat Jun  9 18:48:47 2012] [debug] Template "exception.development.html.ep" not found.
+[Sat Jun  9 18:48:47 2012] [debug] Template "exception.html.ep" not found.
+[Sat Jun  9 18:48:47 2012] [debug] Rendering inline template.
+[Sat Jun  9 18:48:47 2012] [debug] Rendering inline template.
+[Sat Jun  9 18:48:47 2012] [debug] 500 Internal Server Error (0.060293s, 16.586/s).
+[Sat Jun  9 18:48:48 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 18:48:54 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 18:48:54 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Jun  9 18:48:54 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 18:48:54 2012] [debug] Class "Impressari::Impressionist" is not a controller.
+[Sat Jun  9 18:48:54 2012] [debug] Rendering template "impressionist/start.html.ep".
+[Sat Jun  9 18:48:54 2012] [debug] Rendering template "layouts/impressionist.html.ep".
+[Sat Jun  9 18:48:54 2012] [debug] 200 OK (0.036948s, 27.065/s).
+[Sat Jun  9 18:54:08 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5).
+[Sat Jun  9 18:54:08 2012] [debug] Class "Impressari::Impressionist" is not a controller.
+[Sat Jun  9 18:54:08 2012] [debug] Rendering cached template "impressionist/start.html.ep".
+[Sat Jun  9 18:54:08 2012] [debug] Rendering cached template "layouts/impressionist.html.ep".
+[Sat Jun  9 18:54:08 2012] [debug] 200 OK (0.003140s, 318.471/s).
+[Sat Jun  9 18:58:01 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 18:58:11 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 18:58:14 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 18:58:35 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 18:59:12 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 18:59:30 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 19:15:52 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Jun  9 19:15:52 2012] [debug] GET / (Anonymojo).
+[Sat Jun  9 19:15:52 2012] [debug] Class "Impressari::Impressionist" is not a controller.
+[Sat Jun  9 19:15:52 2012] [debug] Rendering template "impressionist/start.html.ep".
+[Sat Jun  9 19:15:52 2012] [debug] Rendering template "layouts/impressionist.html.ep".
+[Sat Jun  9 19:15:52 2012] [debug] 200 OK (0.048323s, 20.694/s).
+[Sat Jun  9 19:15:53 2012] [debug] GET / (Anonymojo).
+[Sat Jun  9 19:15:53 2012] [debug] Class "Impressari::Impressionist" is not a controller.
+[Sat Jun  9 19:15:53 2012] [debug] Rendering cached template "impressionist/start.html.ep".
+[Sat Jun  9 19:15:53 2012] [debug] Rendering cached template "layouts/impressionist.html.ep".
+[Sat Jun  9 19:15:53 2012] [debug] 200 OK (0.004104s, 243.665/s).
+[Sat Jun  9 19:15:55 2012] [debug] GET / (Anonymojo).
+[Sat Jun  9 19:15:55 2012] [debug] Class "Impressari::Impressionist" is not a controller.
+[Sat Jun  9 19:15:55 2012] [debug] Rendering cached template "impressionist/start.html.ep".
+[Sat Jun  9 19:15:55 2012] [debug] Rendering cached template "layouts/impressionist.html.ep".
+[Sat Jun  9 19:15:55 2012] [debug] 400 Bad Request (0.003531s, 283.206/s).
+[Sat Jun  9 19:15:57 2012] [debug] GET / (Anonymojo).
+[Sat Jun  9 19:15:57 2012] [debug] Class "Impressari::Impressionist" is not a controller.
+[Sat Jun  9 19:15:57 2012] [debug] Rendering cached template "impressionist/start.html.ep".
+[Sat Jun  9 19:15:57 2012] [debug] Rendering cached template "layouts/impressionist.html.ep".
+[Sat Jun  9 19:15:57 2012] [debug] 400 Bad Request (0.003667s, 272.702/s).
+[Sat Jun  9 19:16:00 2012] [debug] OPTIONS / (Anonymojo).
+[Sat Jun  9 19:16:00 2012] [debug] Template "not_found.development.html.ep" not found.
+[Sat Jun  9 19:16:00 2012] [debug] Template "not_found.html.ep" not found.
+[Sat Jun  9 19:16:00 2012] [debug] Rendering inline template.
+[Sat Jun  9 19:16:00 2012] [debug] Rendering inline template.
+[Sat Jun  9 19:16:00 2012] [debug] 404 Not Found (0.046728s, 21.400/s).
+[Sat Jun  9 19:16:01 2012] [debug] GET / (Anonymojo).
+[Sat Jun  9 19:16:01 2012] [debug] Class "Impressari::Impressionist" is not a controller.
+[Sat Jun  9 19:16:01 2012] [debug] Rendering cached template "impressionist/start.html.ep".
+[Sat Jun  9 19:16:01 2012] [debug] Rendering cached template "layouts/impressionist.html.ep".
+[Sat Jun  9 19:16:01 2012] [debug] 400 Bad Request (0.003839s, 260.485/s).
+[Sat Jun  9 19:16:02 2012] [debug] OPTIONS / (Anonymojo).
+[Sat Jun  9 19:16:02 2012] [debug] Template "not_found.development.html.ep" not found.
+[Sat Jun  9 19:16:02 2012] [debug] Template "not_found.html.ep" not found.
+[Sat Jun  9 19:16:02 2012] [debug] Rendering cached inline template.
+[Sat Jun  9 19:16:02 2012] [debug] Rendering cached inline template.
+[Sat Jun  9 19:16:02 2012] [debug] 404 Not Found (0.016120s, 62.035/s).
+[Sat Jun  9 19:16:03 2012] [debug] GET / (Anonymojo).
+[Sat Jun  9 19:16:03 2012] [debug] Class "Impressari::Impressionist" is not a controller.
+[Sat Jun  9 19:16:03 2012] [debug] Rendering cached template "impressionist/start.html.ep".
+[Sat Jun  9 19:16:03 2012] [debug] Rendering cached template "layouts/impressionist.html.ep".
+[Sat Jun  9 19:16:03 2012] [debug] 400 Bad Request (0.003795s, 263.505/s).
+[Sat Jun  9 19:16:18 2012] [debug] GET / (Anonymojo).
+[Sat Jun  9 19:16:18 2012] [debug] Class "Impressari::Impressionist" is not a controller.
+[Sat Jun  9 19:16:18 2012] [debug] Rendering cached template "impressionist/start.html.ep".
+[Sat Jun  9 19:16:18 2012] [debug] Rendering cached template "layouts/impressionist.html.ep".
+[Sat Jun  9 19:16:18 2012] [debug] 400 Bad Request (0.003648s, 274.123/s).
+[Sat Jun  9 19:16:20 2012] [debug] GET / (Anonymojo).
+[Sat Jun  9 19:16:20 2012] [debug] Class "Impressari::Impressionist" is not a controller.
+[Sat Jun  9 19:16:20 2012] [debug] Rendering cached template "impressionist/start.html.ep".
+[Sat Jun  9 19:16:20 2012] [debug] Rendering cached template "layouts/impressionist.html.ep".
+[Sat Jun  9 19:16:20 2012] [debug] 400 Bad Request (0.003619s, 276.319/s).
+[Sat Jun  9 19:16:20 2012] [debug] GET / (Anonymojo).
+[Sat Jun  9 19:16:20 2012] [debug] Class "Impressari::Impressionist" is not a controller.
+[Sat Jun  9 19:16:20 2012] [debug] Rendering cached template "impressionist/start.html.ep".
+[Sat Jun  9 19:16:20 2012] [debug] Rendering cached template "layouts/impressionist.html.ep".
+[Sat Jun  9 19:16:20 2012] [debug] 400 Bad Request (0.003806s, 262.743/s).
+[Sat Jun  9 19:16:23 2012] [debug] GET / (Anonymojo).
+[Sat Jun  9 19:16:23 2012] [debug] Class "Impressari::Impressionist" is not a controller.
+[Sat Jun  9 19:16:23 2012] [debug] Rendering cached template "impressionist/start.html.ep".
+[Sat Jun  9 19:16:23 2012] [debug] Rendering cached template "layouts/impressionist.html.ep".
+[Sat Jun  9 19:16:23 2012] [debug] 400 Bad Request (0.003865s, 258.732/s).
+[Sat Jun  9 19:16:30 2012] [debug] GET /nice%20ports,/Trinity.txt.bak (Anonymojo).
+[Sat Jun  9 19:16:30 2012] [debug] Template "not_found.development.html.ep" not found.
+[Sat Jun  9 19:16:30 2012] [debug] Template "not_found.html.ep" not found.
+[Sat Jun  9 19:16:30 2012] [debug] Rendering cached inline template.
+[Sat Jun  9 19:16:30 2012] [debug] Rendering cached inline template.
+[Sat Jun  9 19:16:30 2012] [debug] 404 Not Found (0.016273s, 61.451/s).
+[Sat Jun  9 19:16:31 2012] [debug] GET / (Anonymojo).
+[Sat Jun  9 19:16:31 2012] [debug] Class "Impressari::Impressionist" is not a controller.
+[Sat Jun  9 19:16:31 2012] [debug] Rendering cached template "impressionist/start.html.ep".
+[Sat Jun  9 19:16:31 2012] [debug] Rendering cached template "layouts/impressionist.html.ep".
+[Sat Jun  9 19:16:31 2012] [debug] 400 Bad Request (0.003819s, 261.849/s).
+[Sat Jun  9 19:16:33 2012] [debug] GET /nice%20ports,/Trinity.txt.bak (Anonymojo).
+[Sat Jun  9 19:16:33 2012] [debug] Template "not_found.development.html.ep" not found.
+[Sat Jun  9 19:16:33 2012] [debug] Template "not_found.html.ep" not found.
+[Sat Jun  9 19:16:33 2012] [debug] Rendering cached inline template.
+[Sat Jun  9 19:16:33 2012] [debug] Rendering cached inline template.
+[Sat Jun  9 19:16:33 2012] [debug] 404 Not Found (0.016190s, 61.767/s).
+[Sat Jun  9 19:16:33 2012] [debug] GET / (Anonymojo).
+[Sat Jun  9 19:16:33 2012] [debug] Class "Impressari::Impressionist" is not a controller.
+[Sat Jun  9 19:16:33 2012] [debug] Rendering cached template "impressionist/start.html.ep".
+[Sat Jun  9 19:16:33 2012] [debug] Rendering cached template "layouts/impressionist.html.ep".
+[Sat Jun  9 19:16:33 2012] [debug] 400 Bad Request (0.003878s, 257.865/s).
+[Sat Jun  9 19:16:36 2012] [debug] GET / (Anonymojo).
+[Sat Jun  9 19:16:36 2012] [debug] Class "Impressari::Impressionist" is not a controller.
+[Sat Jun  9 19:16:36 2012] [debug] Rendering cached template "impressionist/start.html.ep".
+[Sat Jun  9 19:16:36 2012] [debug] Rendering cached template "layouts/impressionist.html.ep".
+[Sat Jun  9 19:16:36 2012] [debug] 400 Bad Request (0.003595s, 278.164/s).
+[Sat Jun  9 19:16:38 2012] [debug] GET / (Anonymojo).
+[Sat Jun  9 19:16:38 2012] [debug] Class "Impressari::Impressionist" is not a controller.
+[Sat Jun  9 19:16:38 2012] [debug] Rendering cached template "impressionist/start.html.ep".
+[Sat Jun  9 19:16:38 2012] [debug] Rendering cached template "layouts/impressionist.html.ep".
+[Sat Jun  9 19:16:38 2012] [debug] 400 Bad Request (0.003980s, 251.256/s).
+[Sat Jun  9 19:17:25 2012] [debug] GET / (Anonymojo).
+[Sat Jun  9 19:17:25 2012] [debug] Class "Impressari::Impressionist" is not a controller.
+[Sat Jun  9 19:17:25 2012] [debug] Rendering cached template "impressionist/start.html.ep".
+[Sat Jun  9 19:17:25 2012] [debug] Rendering cached template "layouts/impressionist.html.ep".
+[Sat Jun  9 19:17:25 2012] [debug] 200 OK (0.003854s, 259.471/s).
+[Sat Jun  9 19:17:28 2012] [debug] GET / (Anonymojo).
+[Sat Jun  9 19:17:28 2012] [debug] Class "Impressari::Impressionist" is not a controller.
+[Sat Jun  9 19:17:28 2012] [debug] Rendering cached template "impressionist/start.html.ep".
+[Sat Jun  9 19:17:28 2012] [debug] Rendering cached template "layouts/impressionist.html.ep".
+[Sat Jun  9 19:17:28 2012] [debug] 400 Bad Request (0.003861s, 259.000/s).
+[Sat Jun  9 19:17:33 2012] [debug] OPTIONS / (Anonymojo).
+[Sat Jun  9 19:17:33 2012] [debug] Template "not_found.development.html.ep" not found.
+[Sat Jun  9 19:17:33 2012] [debug] Template "not_found.html.ep" not found.
+[Sat Jun  9 19:17:33 2012] [debug] Rendering cached inline template.
+[Sat Jun  9 19:17:33 2012] [debug] Rendering cached inline template.
+[Sat Jun  9 19:17:33 2012] [debug] 404 Not Found (0.016615s, 60.187/s).
+[Sat Jun  9 19:17:33 2012] [debug] GET / (Anonymojo).
+[Sat Jun  9 19:17:33 2012] [debug] Class "Impressari::Impressionist" is not a controller.
+[Sat Jun  9 19:17:33 2012] [debug] Rendering cached template "impressionist/start.html.ep".
+[Sat Jun  9 19:17:33 2012] [debug] Rendering cached template "layouts/impressionist.html.ep".
+[Sat Jun  9 19:17:33 2012] [debug] 400 Bad Request (0.003724s, 268.528/s).
+[Sat Jun  9 19:17:50 2012] [debug] GET / (Anonymojo).
+[Sat Jun  9 19:17:50 2012] [debug] Class "Impressari::Impressionist" is not a controller.
+[Sat Jun  9 19:17:50 2012] [debug] Rendering cached template "impressionist/start.html.ep".
+[Sat Jun  9 19:17:50 2012] [debug] Rendering cached template "layouts/impressionist.html.ep".
+[Sat Jun  9 19:17:50 2012] [debug] 400 Bad Request (0.003911s, 255.689/s).
+[Sat Jun  9 19:17:52 2012] [debug] GET / (Anonymojo).
+[Sat Jun  9 19:17:52 2012] [debug] Class "Impressari::Impressionist" is not a controller.
+[Sat Jun  9 19:17:52 2012] [debug] Rendering cached template "impressionist/start.html.ep".
+[Sat Jun  9 19:17:52 2012] [debug] Rendering cached template "layouts/impressionist.html.ep".
+[Sat Jun  9 19:17:52 2012] [debug] 400 Bad Request (0.004029s, 248.201/s).
+[Sat Jun  9 19:18:02 2012] [debug] GET /nice%20ports,/Trinity.txt.bak (Anonymojo).
+[Sat Jun  9 19:18:02 2012] [debug] Template "not_found.development.html.ep" not found.
+[Sat Jun  9 19:18:02 2012] [debug] Template "not_found.html.ep" not found.
+[Sat Jun  9 19:18:02 2012] [debug] Rendering cached inline template.
+[Sat Jun  9 19:18:02 2012] [debug] Rendering cached inline template.
+[Sat Jun  9 19:18:02 2012] [debug] 404 Not Found (0.016771s, 59.627/s).
+[Sat Jun  9 19:18:02 2012] [debug] GET / (Anonymojo).
+[Sat Jun  9 19:18:02 2012] [debug] Class "Impressari::Impressionist" is not a controller.
+[Sat Jun  9 19:18:02 2012] [debug] Rendering cached template "impressionist/start.html.ep".
+[Sat Jun  9 19:18:02 2012] [debug] Rendering cached template "layouts/impressionist.html.ep".
+[Sat Jun  9 19:18:02 2012] [debug] 400 Bad Request (0.002730s, 366.300/s).
+[Sat Jun  9 19:18:07 2012] [debug] GET / (Anonymojo).
+[Sat Jun  9 19:18:07 2012] [debug] Class "Impressari::Impressionist" is not a controller.
+[Sat Jun  9 19:18:07 2012] [debug] Rendering cached template "impressionist/start.html.ep".
+[Sat Jun  9 19:18:07 2012] [debug] Rendering cached template "layouts/impressionist.html.ep".
+[Sat Jun  9 19:18:07 2012] [debug] 400 Bad Request (0.003768s, 265.393/s).
+[Sat Jun  9 19:18:51 2012] [debug] Inactivity timeout.
+[Sat Jun  9 19:21:26 2012] [debug] GET / (Anonymojo).
+[Sat Jun  9 19:21:26 2012] [debug] Class "Impressari::Impressionist" is not a controller.
+[Sat Jun  9 19:21:26 2012] [debug] Rendering cached template "impressionist/start.html.ep".
+[Sat Jun  9 19:21:26 2012] [debug] Rendering cached template "layouts/impressionist.html.ep".
+[Sat Jun  9 19:21:26 2012] [debug] 200 OK (0.004189s, 238.720/s).
+[Sat Jun  9 19:21:28 2012] [debug] GET / (Anonymojo).
+[Sat Jun  9 19:21:28 2012] [debug] Class "Impressari::Impressionist" is not a controller.
+[Sat Jun  9 19:21:28 2012] [debug] Rendering cached template "impressionist/start.html.ep".
+[Sat Jun  9 19:21:28 2012] [debug] Rendering cached template "layouts/impressionist.html.ep".
+[Sat Jun  9 19:21:28 2012] [debug] 400 Bad Request (0.003863s, 258.866/s).
+[Sat Jun  9 19:21:33 2012] [debug] OPTIONS / (Anonymojo).
+[Sat Jun  9 19:21:33 2012] [debug] Template "not_found.development.html.ep" not found.
+[Sat Jun  9 19:21:33 2012] [debug] Template "not_found.html.ep" not found.
+[Sat Jun  9 19:21:33 2012] [debug] Rendering cached inline template.
+[Sat Jun  9 19:21:33 2012] [debug] Rendering cached inline template.
+[Sat Jun  9 19:21:33 2012] [debug] 404 Not Found (0.016168s, 61.851/s).
+[Sat Jun  9 19:21:33 2012] [debug] GET / (Anonymojo).
+[Sat Jun  9 19:21:33 2012] [debug] Class "Impressari::Impressionist" is not a controller.
+[Sat Jun  9 19:21:33 2012] [debug] Rendering cached template "impressionist/start.html.ep".
+[Sat Jun  9 19:21:33 2012] [debug] Rendering cached template "layouts/impressionist.html.ep".
+[Sat Jun  9 19:21:33 2012] [debug] 400 Bad Request (0.004055s, 246.609/s).
+[Sat Jun  9 19:21:51 2012] [debug] GET / (Anonymojo).
+[Sat Jun  9 19:21:51 2012] [debug] Class "Impressari::Impressionist" is not a controller.
+[Sat Jun  9 19:21:51 2012] [debug] Rendering cached template "impressionist/start.html.ep".
+[Sat Jun  9 19:21:51 2012] [debug] Rendering cached template "layouts/impressionist.html.ep".
+[Sat Jun  9 19:21:51 2012] [debug] 400 Bad Request (0.003666s, 272.777/s).
+[Sat Jun  9 19:21:53 2012] [debug] GET / (Anonymojo).
+[Sat Jun  9 19:21:53 2012] [debug] Class "Impressari::Impressionist" is not a controller.
+[Sat Jun  9 19:21:53 2012] [debug] Rendering cached template "impressionist/start.html.ep".
+[Sat Jun  9 19:21:53 2012] [debug] Rendering cached template "layouts/impressionist.html.ep".
+[Sat Jun  9 19:21:53 2012] [debug] 400 Bad Request (0.003715s, 269.179/s).
+[Sat Jun  9 19:22:03 2012] [debug] GET /nice%20ports,/Trinity.txt.bak (Anonymojo).
+[Sat Jun  9 19:22:03 2012] [debug] Template "not_found.development.html.ep" not found.
+[Sat Jun  9 19:22:03 2012] [debug] Template "not_found.html.ep" not found.
+[Sat Jun  9 19:22:03 2012] [debug] Rendering cached inline template.
+[Sat Jun  9 19:22:03 2012] [debug] Rendering cached inline template.
+[Sat Jun  9 19:22:03 2012] [debug] 404 Not Found (0.011538s, 86.670/s).
+[Sat Jun  9 19:22:03 2012] [debug] GET / (Anonymojo).
+[Sat Jun  9 19:22:03 2012] [debug] Class "Impressari::Impressionist" is not a controller.
+[Sat Jun  9 19:22:03 2012] [debug] Rendering cached template "impressionist/start.html.ep".
+[Sat Jun  9 19:22:03 2012] [debug] Rendering cached template "layouts/impressionist.html.ep".
+[Sat Jun  9 19:22:03 2012] [debug] 400 Bad Request (0.003697s, 270.490/s).
+[Sat Jun  9 19:22:08 2012] [debug] GET / (Anonymojo).
+[Sat Jun  9 19:22:08 2012] [debug] Class "Impressari::Impressionist" is not a controller.
+[Sat Jun  9 19:22:08 2012] [debug] Rendering cached template "impressionist/start.html.ep".
+[Sat Jun  9 19:22:08 2012] [debug] Rendering cached template "layouts/impressionist.html.ep".
+[Sat Jun  9 19:22:08 2012] [debug] 400 Bad Request (0.003842s, 260.281/s).
+[Sat Jun  9 19:28:45 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".
+[Sat Jun  9 19:29:04 2012] [debug] Reading config file "C:\wamp\www\impressari\conf\config.yaml".

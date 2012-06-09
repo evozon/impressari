@@ -15,7 +15,6 @@ $(document).ready(function(e)
 });
 </script>
 
-
   <div id="mybody">
    <div class="navbar btn-info" id="topnavbar">
     <div class="btn-info">
